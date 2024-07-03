@@ -1,0 +1,37 @@
+* {
+    font-family: 'Source Serif 4', monospace;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: bold;
+
+}
+
+span {
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+
+.container {
+    margin: 13rem 10rem;
+    text-align: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 170px;
+}
+
+.btn {
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding: 2rem;
+    border-radius: 15px;
+    background-color: whitesmoke;
+    border-style: none;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    cursor: pointer;
+}
